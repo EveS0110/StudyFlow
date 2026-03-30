@@ -14,13 +14,7 @@
       "password": "123",
       "token": "fake-jwt-1774822558815"
     },
-    {
-      "id": "KqBRfKeBvK8",
-      "name": "Ana Fernandes",
-      "email": "Ana@email.com",
-      "password": "123",
-      "token": "fake-jwt-1774823697974"
-    },
+
     {
       "id": "ZjoRiAYDbj8",
       "name": "Juliana",
