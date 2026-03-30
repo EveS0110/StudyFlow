@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "user_evely",
+      "email": "evely@email.com",
+      "password": "123",
+      "name": "Evely Sena",
+      "token": "fake-jwt-token-evely-123"
+    },
+    {
+      "id": "KVIEmO7lgKw",
+      "name": "Ana Santana",
+      "email": "Ana@email.com",
+      "password": "123",
+      "token": "fake-jwt-1774822558815"
+    },
+    {
+      "id": "KqBRfKeBvK8",
+      "name": "Ana Fernandes",
+      "email": "Ana@email.com",
+      "password": "123",
+      "token": "fake-jwt-1774823697974"
+    },
+    {
+      "id": "ZjoRiAYDbj8",
+      "name": "Juliana",
+      "email": "Juliana@email.com",
+      "password": "123",
+      "token": "fake-jwt-1774823798022"
+    },
+    {
+      "id": "3_AEiZWlGWI",
+      "name": "Paulo Gustavo",
+      "email": "paulo@email.com",
+      "password": "123",
+      "token": "fake-jwt-1774827438520"
+    }
+  ],
+  "summaries": [
+    {
+      "title": "JavaScript",
+      "subject": "Arrays",
+      "difficulty": "Medium",
+      "estimatedTime": 2,
+      "content": "jjjjjjj ",
+      "links": [
+        {
+          "id": "1774825540626",
+          "name": "araay",
+          "url": "https://www.com.br"
+        }
+      ],
+      "completed": true,
+      "userId": "user_evely",
+      "id": "vf5LtSErYwQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
