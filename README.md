@@ -52,6 +52,8 @@ Desenvolvido por **Evely Sena**
 ![Tela inicial do StudyFlow](https://drive.google.com/uc?export=view&id=1QvZTYeeB5Lv_rOj59A45BIn6xVgOKLSF)
 ![Interface do StudyFlow](https://drive.google.com/uc?export=view&id=18A9BZEasU1A-b8GJ2FcwELZclF6m30M1)
 
+**Acesse o projeto através do link do deploy**
+[deploy](https://study-flow-pearl.vercel.app/)
 
 
 
