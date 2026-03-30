@@ -53,8 +53,7 @@ Desenvolvido por **Evely Sena**
 ![Interface do StudyFlow](https://drive.google.com/uc?export=view&id=18A9BZEasU1A-b8GJ2FcwELZclF6m30M1)
 
 **Acesse o projeto através do link do deploy**
-[deploy](https://study-flow-pearl.vercel.app/)
-[deploy backend](https://studyflow-ieq7.onrender.com/)
+[deploy](https://study-flow-pearl.vercel.app/)<br>[deploy backend](https://studyflow-ieq7.onrender.com/)
 
 
 
