@@ -17,7 +17,7 @@ O **StudyFlow** é uma aplicação web desenvolvida para ajudar estudantes de qu
 
 ### 3. Decisões Técnicas
 * **API REST:** Consumo de dados via JSON-Server/Backend próprio utilizando operações **GET** (leitura), **POST** (criação), **PATCH** (atualização parcial de progresso e conteúdo) e **DELETE** (remoção).
-* **Persistência:** Integração com MongoDB para armazenamento seguro dos dados do usuário.
+* **Persistência:** Este projeto utiliza o **json-server** para simular uma API REST de forma rápida e eficiente.
 
 ---
 
@@ -35,7 +35,7 @@ O **StudyFlow** é uma aplicação web desenvolvida para ajudar estudantes de qu
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/evelysena/studyflow.git](https://github.com/evelysena/studyflow.git)
+   git clone (https://github.com/EveS0110/StudyFlow.git)
 
 2. **Instale as dependências:**
   npm install
@@ -46,8 +46,11 @@ O **StudyFlow** é uma aplicação web desenvolvida para ajudar estudantes de qu
 
 Desenvolvido por **Evely Sena** 
 
-[](https://www.linkedin.com/in/evelysdev/)
+[Linkedin](https://www.linkedin.com/in/evelysdev/)
 
+**Demontração do StudyFlow**
+![Tela inicial do StudyFlow](https://drive.google.com/uc?export=view&id=1QvZTYeeB5Lv_rOj59A45BIn6xVgOKLSF)
+![Interface do StudyFlow](https://drive.google.com/uc?export=view&id=18A9BZEasU1A-b8GJ2FcwELZclF6m30M1)
 
 
 
