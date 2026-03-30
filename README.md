@@ -54,6 +54,7 @@ Desenvolvido por **Evely Sena**
 
 **Acesse o projeto através do link do deploy**
 [deploy](https://study-flow-pearl.vercel.app/)
+[deploy backend](https://studyflow-ieq7.onrender.com/)
 
 
 
