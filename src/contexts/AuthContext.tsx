@@ -68,7 +68,6 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
       };
       
       await api.post('/users', newUser);
-      alert("Conta criada com sucesso! 🎉");
     } catch (error) {
       console.error("Erro ao registrar:", error);
       alert("Erro ao criar conta. Tente novamente.");

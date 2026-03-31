@@ -14,7 +14,7 @@ export function RegisterPage() {
     e.preventDefault();
     try {
       await register(name, email, password);
-      alert("Conta criada com sucesso!");
+      alert("Conta criada com sucesso 🎉!");
       navigate('/login');
     } catch (error) {
       alert("Erro ao criar conta.");

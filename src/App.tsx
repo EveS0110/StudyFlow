@@ -39,7 +39,7 @@ export default function App() {
           StudyFlow 📝
         </h1>
         <div className="flex flex-wrap justify-center gap-3 md:gap-4 items-center">
-          <span className="font-bold text-gray-700 text-sm md:text-base">Olá, {user?.name}</span>
+          <span className="font-bold text-gray-700 text-sm md:text-base">👋Olá, {user?.name}</span>
           <button 
             onClick={logout} 
             className="text-red-500 font-black hover:bg-red-50 px-4 py-2 rounded-xl transition text-xs uppercase border border-red-100 shadow-sm"
