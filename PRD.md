@@ -10,7 +10,7 @@ A "ilusão de competência", onde o estudante consome conteúdo por horas mas n�
 
 
 ## 2. O Problema
-Estudantes de ADS lidam com um volume massivo de informações. A falta de uma ferramenta centralizada para registrar o progresso e armazenar resumos técnicos dificulta a retenção do aprendizado a longo prazo.
+Estudantes que lidam com um volume massivo de informações. A falta de uma ferramenta centralizada para registrar o progresso e armazenar resumos técnicos dificulta a retenção do aprendizado a longo prazo.
 
 ## 3. Público-Alvo
 * Estudantes em qualquer nível escolar, graduandos, pós-graduandos, concurseiros e entusiastas de tecnologia que buscam centralizar seus resumos e controlar o tempo líquido de estudo.
@@ -24,7 +24,7 @@ Estudantes de ADS lidam com um volume massivo de informações. A falta de uma f
 * **Frontend:** React + TypeScript (pela tipagem forte) + Tailwind CSS (agilidade no estilo).
 * **Backend:** JSON Server (para prototipagem rápida de uma API REST).
 * **Deploy:** Render (Backend) e Vercel (Frontend).
-* **Persistência:** Arquivo `db.json` simulando um banco de dados NoSQL.
+* **Persistência:** Arquivo `db.json` simulando um banco de dados real.
 
 ## 6. O que faria diferente (Próximos Passos)
 * Substituir o JSON Server por um banco de dados real (PostgreSQL ou MongoDB) para evitar a perda de dados no deploy efêmero do Render.
