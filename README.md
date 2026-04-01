@@ -14,8 +14,8 @@ O **StudyFlow** é uma aplicação web desenvolvida para ajudar estudantes a org
 ## 🛠️ Como Executar o Projeto
 
 1. **Clone o repositório:**
-   ```bash
-  git clone [https://github.com/EveS0110/StudyFlow.git](https://github.com/EveS0110/StudyFlow.git)
+ git clone [https://github.com/EveS0110/StudyFlow.git](https://github.com/EveS0110/StudyFlow.git)
+ 
 
 2. **Instale as dependências:**
   npm install
